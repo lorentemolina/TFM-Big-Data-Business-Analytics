@@ -1,4 +1,4 @@
-# TFM \- Estimación y Modelado del Valor Empresarial/de Mercado de Jugadores NBA a partir de Datos Públicos: Un Enfoque Analítico y Predictivo Multidimensional
+# TFM \- Estimación y Modelado del Valor de Mercado de Jugadores NBA a partir de Datos Públicos: Un Enfoque Analítico y Predictivo Multidimensional
 
 **Modelización, validación multi-horizonte y mini–app Shiny**
 
@@ -55,7 +55,7 @@ project-root/
 
 ### 1\) Descargar el proyecto
 
-- Descarga y descomprime desde **\[PON AQUÍ TU ENLACE A DRIVE\]** manteniendo la estructura (`data/`, `reports/`, `models/`, `scripts/`, …).  
+- Descarga y descomprime desde **(https://drive.google.com/drive/u/0/folders/1_uk3QcRl7Q3i1sxLi4cc8umIX3QYHasb)** manteniendo la estructura (`data/`, `reports/`, `models/`, `scripts/`, …).  
 - Los **datos brutos** no se redistribuyen por licencia. Si deseas ejecutarlo completamente en local, descarga los CSV de Kaggle (ver sección “Datos”).
 
 ### 2\) Ejecutar el **cuaderno** (Colab recomendado)
@@ -135,7 +135,7 @@ Por licencia, **no** redistribuyas `data/raw/csv/`; remite a Kaggle.
 
 ## 📝 Créditos y uso
 
-Trabajo de TFM — “Estimación y Modelado del Valor Empresarial/de Mercado de Jugadores NBA a partir de Datos Públicos: Un Enfoque Analítico y Predictivo Multidimensional”.  
+Trabajo de TFM — “Estimación y Modelado del Valor de Mercado de Jugadores NBA a partir de Datos Públicos: Un Enfoque Analítico y Predictivo Multidimensional”.  
 Se respetan las licencias de Kaggle y términos de Wikimedia/Google Trends. Repositorio para **fines académicos/profesionales internos**.
 
 ---
